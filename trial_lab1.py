@@ -1,1 +1,2 @@
-print("Jujubi")
+print("Jujubi",end = "")
+print(" = Hakuna Matata")
