@@ -97,8 +97,8 @@ def morse(x):
     GPIO.output(17,GPIO.LOW)
     time.sleep(2)
     
- GPIO.output(17,GPIO.LOW)
- time.sleep(1)
+  GPIO.output(17,GPIO.LOW)
+  time.sleep(1)
  
 s = "enikku urakkam varanu"
 msg = [*s]
